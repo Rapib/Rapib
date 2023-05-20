@@ -2,14 +2,12 @@
 
 ## **Introduction**
 
----
 Welcome to my GitHub profile! I'm a passionate software developer with a background in filmmaking. I specialize in full-stack development, leveraging my expertise in HTML, CSS, and JavaScript to create innovative, user-centric solutions.
 
 <br />
 
 ## **Languages and Tools**
 
----
 
 ### Languages
 
