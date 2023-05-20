@@ -4,10 +4,7 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer with a background in filmmaking. I specialize in full-stack development, leveraging my expertise in HTML, CSS, and JavaScript to create innovative, user-centric solutions.
 
-<br />
-
 ## **Languages and Tools**
-
 
 ### Languages
 
@@ -58,7 +55,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a backgro
 <br />
 
 <p align="center">
-<img width="140" src="https://komarev.com/ghpvc/?username=rapib&color=green" />
+<img width="160" src="https://komarev.com/ghpvc/?username=rapib&color=green" />
 </p>
 <br />
 <p align="center">
